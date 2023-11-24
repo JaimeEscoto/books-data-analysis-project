@@ -7,7 +7,24 @@ This project involves creating a database for managing information about books, 
 
 ## Project Overview
 
+1. Initial data handling
+    - Explore data, fields convention.
+    - 
+
+2. Creating data Entity Relationship Diagram (ERD)
+    - FSADAS
+
+3. Standup Data Base
+    -   SQlite instance
+    - Code in python to copy data from CSV files to tables in Data Base
+
+4. Data Analysis
+
 ## Data Set
+- **Data Source:** [Books Dataset from Kaggle](https://www.kaggle.com/datasets/saurabhbagchi/books-dataset/)
+- **Context:** Books read by users and ratings provided by them on Amazon
+
+
 ### Tables
 
 #### 1. Books
@@ -38,6 +55,10 @@ This project involves creating a database for managing information about books, 
 -   The `ratings` table has a foreign key relationship with the `users` table, referencing the `User-ID` field.
 
 ## Tools & Technologies Used
+- **Numbers:** for preliminary data handling in CSV files.
+- **DBeaver:** to manage SQLite Data Base
+- **Python:** falfafhlsdhljkah
+- **SQL:** scripting transactions with data base
 
 ## Queries and Analysis
 
@@ -54,3 +75,6 @@ https://www.linkedin.com/in/-megan-e-smith/
 
 
 
+
+
+[Kaggle Data sET]: ttps://www.kaggle.com/datasets/saurabhbagchi/books-dataset
