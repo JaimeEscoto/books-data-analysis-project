@@ -41,13 +41,16 @@ This project involves creating a database for managing information about books, 
 
 ## Queries and Analysis
 
-## Credits
-Mentor: Megan Smith
-https://www.linkedin.com/in/-megan-e-smith/
+
 
 ## How to Run the Analysis
 
 ## Future Enhancements
+- Integration with visualization tools (e.g., Looker).
+
+## Credits
+Mentor: Megan Smith
+https://www.linkedin.com/in/-megan-e-smith/
 
 
 
