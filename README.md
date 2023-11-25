@@ -29,8 +29,8 @@ This project involves creating a database for managing information about books, 
 
 
 ## Data Set
-- **Data Source:** [Books Dataset from Kaggle](https://www.kaggle.com/datasets/saurabhbagchi/books-dataset/)
-- **Context:** Books read by users and ratings provided by them on Amazon
+- **Data Source:** [Books Dataset from Kaggle](https://www.kaggle.com/datasets/saurabhbagchi/books-dataset/).
+- **Context:** Books read by users and ratings provided by them on Amazon.
 
 
 ### Tables
