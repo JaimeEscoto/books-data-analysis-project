@@ -70,7 +70,7 @@ This project involves creating a database for managing information about books, 
 
 ## Queries and Analysis
 - Top 10 Locations with the Highest Number of Reviews.
-- Top 10 Books by Reviews-Qty and Avg-Rating.
+- Top 10 Books by Reviews-Qty and Rating-Avg.
 - Top 10 best books with more than 300 reviews.
 - Review and ISBN Statistics.
 
