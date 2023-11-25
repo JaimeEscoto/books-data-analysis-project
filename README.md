@@ -78,6 +78,7 @@ This project involves creating a database for managing information about books, 
 - Fork or download the project.
 - Unzip Database.
 - Open Jupyter Notebook.
+
 For more detail check Trello Board link bellow in Tasks Management.
 
 ## Future Enhancements
