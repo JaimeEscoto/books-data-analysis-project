@@ -69,13 +69,16 @@ This project involves creating a database for managing information about books, 
 - **SQL:** Employed for scripting transactions and interactions with the database.
 
 ## Queries and Analysis
-- Top 10 Locations with the Highest Number of Reviews
-- Top 10 Books by Reviews-Qty and Avg-Rating 
-- Top 10 best books with more than 300 reviews
-- Review and ISBN Statistics
+- Top 10 Locations with the Highest Number of Reviews.
+- Top 10 Books by Reviews-Qty and Avg-Rating.
+- Top 10 best books with more than 300 reviews.
+- Review and ISBN Statistics.
 
 ## How to Run the Analysis
-- Open Jupyter Notebook
+- Fork or download the project.
+- Unzip Database.
+- Open Jupyter Notebook.
+For more detail check Trello Board link bellow in Tasks Management.
 
 ## Future Enhancements
 - Explore data using Python coding.
@@ -86,11 +89,7 @@ This project involves creating a database for managing information about books, 
 - **Trello board:** [Books | Data Analysis Project](https://trello.com/b/BVF06oll/books-data-analysis-project)
 
 ## Credits
-Mentor: Megan Smith
+Mentor and Insp: Megan Smith
 https://www.linkedin.com/in/-megan-e-smith/
 
 
-
-
-
-[Kaggle Data sET]: ttps://www.kaggle.com/datasets/saurabhbagchi/books-dataset
