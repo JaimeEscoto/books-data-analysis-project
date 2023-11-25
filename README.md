@@ -1,6 +1,9 @@
 # Books | Data Analysis Project
+![Static Badge](https://img.shields.io/badge/microsoftexcel-gray?style=for-the-badge&logo=microsoftexcel&logoColor=green)
 ![Static Badge](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/sqlite-gray?style=for-the-badge&logo=sqlite&logoColor=white)
+
+
 
 
 ## Description
