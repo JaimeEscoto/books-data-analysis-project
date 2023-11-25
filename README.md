@@ -1,5 +1,6 @@
 # Books | Data Analysis Project
-PostgreSQL Azure Data Studio Python Kaggle
+![Static Badge](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white)
+
 ## Description
 This project involves creating a database for managing information about books, user ratings, and user details. The schema includes three tables: **books**, **ratings**, and **users**. The tables are related to capture the association between books, ratings, and users.
 
