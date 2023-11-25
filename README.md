@@ -3,23 +3,22 @@
 ## Description
 This project involves creating a database for managing information about books, user ratings, and user details. The schema includes three tables: **books**, **ratings**, and **users**. The tables are related to capture the association between books, ratings, and users.
 
-## Table of Content
-pending
+
 
 ## Project Overview
 
-1. Initial data handling
-    - Explore data, fields convention.
-    - 
+1. **Explore Data, Fields Convention:** Thoroughly examine the dataset, understand data distributions, and establish field conventions for consistency in data processing.
 
-2. Creating data Entity Relationship Diagram (ERD)
-    - FSADAS
+2. **Creating Data Entity Relationship Diagram (ERD):** Develop an ERD to visually represent the relationships between different entities (tables) in the database, providing a clear overview of the data model.
 
-3. Standup Data Base
-    -   SQlite instance
-    - Code in python to copy data from CSV files to tables in Data Base
 
-4. Data Analysis
+3. **Standup Database:** Implement a SQLite instance as the database backbone, providing a robust foundation for data storage and retrieval.
+
+4. **Code in Python:** To Copy Data from CSV Files to Tables in Database: Develop Python scripts to efficiently transfer data from CSV files to corresponding tables in the SQLite database, ensuring seamless integration.
+
+5. **Data Analysis:** Utilize SQL queries and Python libraries (e.g., pandas) for data analysis with the dataset. 
+
+
 
 ## Data Set
 - **Data Source:** [Books Dataset from Kaggle](https://www.kaggle.com/datasets/saurabhbagchi/books-dataset/)
@@ -72,7 +71,7 @@ pending
 
 ## Future Enhancements
 - Explore data using Python coding.
-- Integration with visualization tools (e.g., Looker)
+- Integration with visualization tools (e.g., Looker).
 
 
 ## Tasks Management
