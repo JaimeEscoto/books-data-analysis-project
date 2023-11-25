@@ -91,7 +91,7 @@ This project involves creating a database for managing information about books, 
 - **Trello board:** [Books | Data Analysis Project](https://trello.com/b/BVF06oll/books-data-analysis-project)
 
 ## Credits
-Mentor and Insp: Megan Smith
+**Mentor and Insp:** Megan Smith
 https://www.linkedin.com/in/-megan-e-smith/
 
 
