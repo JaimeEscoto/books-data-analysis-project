@@ -2,6 +2,8 @@
 ![Static Badge](https://img.shields.io/badge/microsoftexcel-green?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/sqlite-gray?style=for-the-badge&logo=sqlite&logoColor=white)
+![Static Badge](https://img.shields.io/badge/kaggle-lightblue?style=for-the-badge&logo=kaggle&logoColor=black)
+
 
 
 ## Description
