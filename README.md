@@ -63,7 +63,7 @@ This project involves creating a database for managing information about books, 
 -   The `ratings` table has a foreign key relationship with the `users` table, referencing the `User-ID` field.
 
 ## Tools & Technologies Used
-- **Numbers:** Employed for initial data manipulation within CSV files.
+- **Excel:** Employed for initial data manipulation within CSV files.
 - **DBeaver:** Utilized for SQLite Database management.
 - **Python:** Applied to extract data from CSV files and facilitate database loading.
 - **SQL:** Employed for scripting transactions and interactions with the database.
