@@ -58,7 +58,7 @@ This project involves creating a database for managing information about books, 
 
 ### ERD
 
-![MarineGEO circle logo](/erd-source/Data%20Entity%20Relationship%20Diagram.png "ERD")
+![ERD](/erd-source/Data%20Entity%20Relationship%20Diagram.png "ERD")
 
 ## Tools & Technologies Used
 
