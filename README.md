@@ -21,6 +21,8 @@ This project involves creating a database for managing information about books, 
 
 5. **Data Analysis:** Utilize SQL queries and Python libraries (e.g., pandas) for data analysis with the dataset.
 
+6. **Tableau Integration:** In a recent enhancement, I introduced a Python script that seamlessly converts database data into a JSON file. This JSON file can now be effortlessly imported into Tableau, enabling the creation of dynamic visualizations. This addition not only enhances data accessibility but also serves as a powerful demonstration of the seamless integration capabilities between Python and Tableau in this project.
+
 ## Data Set
 
 - **Data Source:** [Books Dataset from Kaggle](https://www.kaggle.com/datasets/saurabhbagchi/books-dataset/).
