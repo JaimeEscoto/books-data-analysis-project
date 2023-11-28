@@ -1,10 +1,11 @@
 # Books | Data Analysis Project
 
-[![Static Badge](https://img.shields.io/badge/kaggle-lightblue?style=for-the-badge&logo=kaggle&logoColor=black)](https://www.kaggle.com/datasets)
-[![Static Badge](https://img.shields.io/badge/microsoftexcel-green?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/es-es/microsoft-365/excel)
-[![Static Badge](https://img.shields.io/badge/sqlite-gray?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
-[![Static Badge](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Static Badge](https://img.shields.io/badge/tableau-blue?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![Static Badge](https://img.shields.io/badge/kaggle-lightblue?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=gray)](https://www.kaggle.com/datasets)
+[![Static Badge](https://img.shields.io/badge/microsoftexcel-green?style=for-the-badge&logo=microsoftexcel&logoColor=b&labelColor=gray)](https://www.microsoft.com/es-es/microsoft-365/excel)
+[![Static Badge](https://img.shields.io/badge/sqlite-red?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=gray)](https://www.sqlite.org/index.html)
+[![Static Badge](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=gray)](https://www.python.org/)
+[![Static Badge](https://img.shields.io/badge/tableau-blue?style=for-the-badge&logo=tableau&logoColor=white&labelColor=gray)
+](https://www.tableau.com/)
 
 ## Description
 
