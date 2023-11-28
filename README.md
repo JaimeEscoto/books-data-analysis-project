@@ -4,6 +4,7 @@
 [![Static Badge](https://img.shields.io/badge/microsoftexcel-green?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/es-es/microsoft-365/excel)
 [![Static Badge](https://img.shields.io/badge/sqlite-gray?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 [![Static Badge](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Static Badge](https://img.shields.io/badge/tableau-blue?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 
 ## Description
 
@@ -68,6 +69,7 @@ This project involves creating a database for managing information about books, 
 - **DBeaver:** Utilized for SQLite Database management.
 - **Python:** Applied to extract data from CSV files and facilitate database loading.
 - **SQL:** Employed for scripting transactions and interactions with the database.
+- **Tableau:** Utilized for creating dynamic visualizations and exploring data insights.
 
 ## Queries and Analysis
 
@@ -75,6 +77,11 @@ This project involves creating a database for managing information about books, 
 - Top 10 Books by Reviews-Qty and Rating-Avg.
 - Top 10 best books with more than 300 reviews.
 - Review and ISBN Statistics.
+- Get all query.
+
+## Tableau Dashboard
+
+- **Tableau Public Dashboard:** [Books | Data Analysis Project](https://public.tableau.com/app/profile/jaime.escoto/viz/BooksDataAnalysisProject/Dashboard1?publish=yes)
 
 ## How to Run the Analysis
 
@@ -86,8 +93,9 @@ This project involves creating a database for managing information about books, 
 
 ## Future Enhancements
 
-- Explore data using Python coding.
-- Integration with visualization tools (e.g., Looker).
+- Leverage additional Python libraries and tools to enhance data processing capabilities.
+- Enhance data visualization techniques within Python for more insightful representation of findings.
+- Create more dashboards with visualization tools (e.g., Tableau, Looker).
 
 ## Tasks Management
 
