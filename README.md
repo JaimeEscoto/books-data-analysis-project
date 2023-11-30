@@ -7,7 +7,7 @@
 [![Static Badge](https://img.shields.io/badge/tableau-blue?style=for-the-badge&logo=tableau&logoColor=white&labelColor=gray)
 ](https://www.tableau.com/)
 
-## Description
+## Description1
 
 This project involves creating a database for managing information about books, user ratings, and user details. The schema includes three tables: **books**, **ratings**, and **users**. The tables are related to capture the association between books, ratings, and users.
 
